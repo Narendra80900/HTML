@@ -1,0 +1,7 @@
+.image1
+{
+    background:linear-gradient (rgb(red, green, blue)),rgb(red, green, blue),
+    url(na.jpg) no-repeat;
+    background-size: cover;
+    
+}
